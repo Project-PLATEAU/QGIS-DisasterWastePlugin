@@ -1,0 +1,17 @@
+[general]
+name=災害廃棄物プラグイン
+qgisMinimumVersion=3.0
+about=災害廃棄物プラグイン
+description=災害廃棄物プラグイン
+version=1.0
+
+#Plugin main icon
+icon=imgs/icon.png
+
+author=MLIT Japan
+email=hqt-mlit-plateau@ki.mlit.go.jp
+homepage=
+tracker=
+repository=
+tags=
+category=
