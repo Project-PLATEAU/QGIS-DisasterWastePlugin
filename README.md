@@ -50,7 +50,7 @@
 
 ### インストール方法
 
-- GitHubからプラグインの[Zipファイル](https://github.com/Project-PLATEAU/UC22-010-QGIS-DisasterWastePlugin/releases/download/v1.0/UC22-010-QGIS-DisasterWastePlugin.zip)をダウンロードします。
+- GitHubからプラグインの[Zipファイル](https://github.com/Project-PLATEAU/QGIS-DisasterWastePlugin/releases/download/v1.0/UC22-010-QGIS-DisasterWastePlugin.zip)をダウンロードします。
 - QGISのメニューバー「プラグイン」からインストールします。
 
 ![install_01](img/install_01.PNG)
